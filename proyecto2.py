@@ -1,1 +1,1 @@
-print ("juan es gay ")
+print ("juan es joto")
