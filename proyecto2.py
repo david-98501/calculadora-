@@ -1,4 +1,4 @@
-print ("juan es gay, esto es main")
+print ("juan es gay, esto es suma prueba")
 
 # calculadora 
 
