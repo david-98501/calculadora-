@@ -2,7 +2,7 @@
 print ("juan es gay, esto es suma prueba")
 
 # calculadora 
-
+numero3=3
 numero =1
 numero2=2
 suma = numero+numero2
