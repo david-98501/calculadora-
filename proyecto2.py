@@ -1,3 +1,4 @@
+
 print ("juan es gay, esto es suma prueba")
 
 # calculadora 
@@ -10,3 +11,18 @@ print (suma)
 print (suma)
 print (suma)
 print (suma)
+
+
+print ("juan es gay, esta es la version corregida del conflito")
+print ("juan es gay, esta es la version corregida del conflito")
+print ("juan es gay, esta es la version corregida del conflito")
+print ("juan es gay, esta es la version corregida del conflito")
+print ("juan es gay, esta es la version corregida del conflito")
+print ("juan es gay, esta es la version corregida del conflito")
+print ("juan es gay, esta es la version corregida del conflito")
+print ("juan es gay, esta es la version corregida del conflito")
+print ("juan es gay, esta es la version corregida del conflito")
+print ("juan es gay, esta es la version corregida del conflito")
+
+
+
